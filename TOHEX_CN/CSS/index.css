@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+#copyright {
+	font-size: 10px;
+}
+
+.a-center{
+  display: block;
+  height: 115px;
+  margin-top: -115px;
+  visibility: hidden;
+}
+
+body {
+	background-color: #F5F5F5;
+	color: #4e6e8e;
+}
+
+hr {
+	width: 100%;
+}
+
+small {
+	text-align: center;
+	font-size: 12px;
+}
+
+h1.title {
+	background-image: -webkit-linear-gradient(left,#ffc0cb,#f0f0af);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+h1.qingfeng{
+    background-image: -webkit-linear-gradient(left,#1b1e25,#d0caca);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+}
+a:link {
+	color: #4e6e8e;
+}
+
+a:visited {
+	color: #4e6e8e;
+}
+
+a:hover {
+	color: #A1B6CB;
+	text-decoration: none;
+}
+
+a:active {
+	color: #D4DDE7;
+	text-decoration: none;
+}
+/* 此代码改编自http://tohex.top */
+.open-offcanvas-button {
+	position: fixed;
+	bottom: 20px;
+	left: 20px;
+}

@@ -1,0 +1,22 @@
+@charset "UTF-8";
+@font-face{
+	font-family: "TengXiangJiaLiDaYuan";
+	src: url("../Fonts/TengXiangJiaLiDaYuan GB18030 Medium.ttf")
+}
+body {
+	background-color:#F5F5F5;
+}
+h1.TOHEX{
+	font-family: "TengXiangJiaLiDaYuan";
+	font-size: 100px;
+	text-align: center;
+	background-image:-webkit-linear-gradient(left,#ffc0cb,#f0f0af);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+}
+p{
+	font-family: "TengXiangJiaLiDaYuan";
+	text-align: center;
+	color: #4e6e8e;
+	font-size: 26px;
+}

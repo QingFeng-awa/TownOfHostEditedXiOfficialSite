@@ -1,0 +1,80 @@
+@charset "UTF-8";
+@font-face{
+	font-family: "SanJiDianHeiJianTi";
+	src: url("../Fonts/SanJiDianHeiJianTi.ttf")
+}
+/*
+h1 = 32px
+h2 = 24px
+h3 = 18.72px
+h4 = 16px
+h5 = 13.28px
+h6 = 12px
+p = 16px
+*/
+body {
+	background-color:#F5F5F5;
+}
+h1{
+	font-family: "SanJiDianHeiJianTi";
+	text-align: center;
+	color: #4e6e8e;
+}
+p{
+	font-family: "SanJiDianHeiJianTi";
+	text-align: center;
+	color: #4e6e8e;
+}
+h2{
+	font-family: "SanJiDianHeiJianTi";
+	text-align: center;
+	color: #4e6e8e;
+}
+h3{
+	font-family: "SanJiDianHeiJianTi";
+	text-align: center;
+	color: #4e6e8e;
+}
+h4{
+	font-family: "SanJiDianHeiJianTi";
+	text-align: center;
+	color: #4e6e8e;
+}
+h5{
+	font-family: "SanJiDianHeiJianTi";
+	text-align: center;
+	color: #4e6e8e;
+}
+h1.TOHEX{
+	font-family: "SanJiDianHeiJianTi";
+	font-size: 100px;
+	text-align: center;
+	background-image:-webkit-linear-gradient(left,#ffc0cb,#f0f0af);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+}
+.Copyright{
+	font-family: "SanJiDianHeiJianTi";
+	text-align: center;
+	color: #4e6e8e;
+	font-size: 16px;
+}
+.del{
+	text-decoration:line-through;
+}
+a:link {
+	color:#4e6e8e;
+	text-decoration:none;
+}
+a:visited {
+	color:#4e6e8e;
+	text-decoration:none;
+}
+a:hover {
+	color:#A1B6CB;
+	text-decoration:none;
+}
+a:active {
+	color:#D4DDE7;
+	text-decoration:none;
+}
